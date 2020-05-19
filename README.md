@@ -1,6 +1,7 @@
 # circuitpython_pyportal_touch_keyboard 
-# Pyportal (Titano) Touch Keyboard.
-currently for the Titano only.
+# Pyportal (Titano) On Screen Keyboard.
+
+(currently sized for the Titano only.)
 
 I made a fairly basic touch screen interface for typing in some text with the pyportal titano. 
 It runs on the very edge of having enough memory or what ever. (im only intermediate skilled...)
@@ -26,6 +27,6 @@ Usage:
         result = kbd.show(splash)
         print(f'You typed: \'{result}\'')
         
-  the show command will return the string you typed after you hit the return button on the keyboard.
-  
+  The show command will return the string you typed after you hit the return button on the keyboard.
+  Splash is the main group you wish to run it on top of.
  
