@@ -30,3 +30,4 @@ Usage:
   The show command will return the string you typed after you hit the return button on the keyboard.
   Splash is the main group you wish to run it on top of.
  
+<img src="https://github.com/geoffllewellyn/circuitpython_pyportal_touch_keyboard/blob/master/titano_osk.jpg?raw=true" width=400"></img>
