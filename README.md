@@ -1,5 +1,7 @@
 circuitpython_pyportal_touch_keyboard 
-# Pyportal (Titano) On Screen Keyboard.
+# Pyportal (Titano) On Screen Keyboard
+-should work on most circuitpython display compatible boards-
+-should....-
 
 (currently sized for the Titano only. 480 x 320 px)
 
