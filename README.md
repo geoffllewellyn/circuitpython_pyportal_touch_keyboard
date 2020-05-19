@@ -1,7 +1,7 @@
 circuitpython_pyportal_touch_keyboard 
 # Pyportal (Titano) On Screen Keyboard.
 
-(currently sized for the Titano only.)
+(currently sized for the Titano only. 480 x 320 px)
 
 I made a fairly basic touch screen interface for typing in some text with the pyportal titano. 
 It runs on the very edge of having enough memory or what ever. (im only intermediate skilled...)
